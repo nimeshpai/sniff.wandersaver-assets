@@ -1,0 +1,1 @@
+# scanner.wandersaver-assets
