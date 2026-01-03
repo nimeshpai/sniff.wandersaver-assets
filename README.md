@@ -1,1 +1,1 @@
-# scanner.wandersaver-assets
+# sniff.wandersaver-assets
